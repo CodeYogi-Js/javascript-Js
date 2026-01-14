@@ -1,4 +1,4 @@
-# javascript-js-
+# javascript-js
 # Complete JavaScript Fundamentals Guide
 
 JavaScript is a versatile programming language that powers modern web development. Let's explore all core concepts in a continuous flow:
